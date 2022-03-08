@@ -4,7 +4,7 @@
   "description": "Realtime chat system for Tutorialzine.com",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [
     "node",
