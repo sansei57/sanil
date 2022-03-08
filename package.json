@@ -1,0 +1,24 @@
+{
+  "name": "NodeChatSystem",
+  "version": "0.0.1",
+  "description": "Realtime chat system for Tutorialzine.com",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Korben Carreno",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "express": "~3.5.0",
+    "express.js": "^1.0.0",
+    "gravatar": "~1.0.6",
+    "nodemon": "^2.0.15",
+    "socket.io": "^0.9.19"
+  }
+}
